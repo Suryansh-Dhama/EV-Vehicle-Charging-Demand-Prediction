@@ -34,7 +34,6 @@ Percent electric vehicles
 
 
 
-
 ---
 
 🔍 Project Stages
@@ -118,6 +117,27 @@ ev-demand-prediction/
 │   └── visualizations.png
 ├── README.md
 └── requirements.txt
+
+
+---
+
+📄 Internship Context
+
+This project was developed as part of the 4-week "Skills4Future: Green Skills using AI" internship, organized by Edunet Foundation, in collaboration with AICTE and Shell India.
+
+📅 Internship Duration:
+
+15 July 2025 – 16 August 2025
+
+🎓 Program Highlights:
+
+Hands-on project-based learning with AI tools
+
+Mentorship and masterclasses by industry experts
+
+Application of AI for real-world sustainability use cases
+
+Certification by AICTE + Shell + Edunet Foundation
 
 
 ---
